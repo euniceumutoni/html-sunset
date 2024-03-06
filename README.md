@@ -1,6 +1,6 @@
 # html-sunset
 
-sunset imaage using HTML and CSS. 
+Sunset image using HTML and CSS. 
 
 ### 1st Repository Made
 
